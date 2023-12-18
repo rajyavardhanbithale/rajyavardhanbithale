@@ -24,7 +24,6 @@ Here are some ideas to get you started:
 <br/>
 ![rajyavardhanbithale's Streak](https://github-readme-streak-stats.herokuapp.com/?user=rajyavardhanbithale&theme=nord&hide_border=false)
 
-![rajyavardhanbithale's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rajyavardhanbithale&count_private=false&theme=nord&show_icons=true&hide_border=false&layout=compact)
 
 </div>
 
@@ -66,3 +65,8 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP">
 </div>
 
+<div align='center'>
+
+![rajyavardhanbithale's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rajyavardhanbithale&count_private=false&theme=nord&show_icons=true&hide_border=false&layout=compact)
+
+</div>
