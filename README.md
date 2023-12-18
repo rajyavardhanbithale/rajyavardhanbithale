@@ -18,10 +18,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div align='center'>
 
-<p align='center'>
- <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=rajyavardhanbithale&show_icons=true&count_private=true" width="350"></a> 
-</p>
+![rajyavardhanbithale's Stats](https://github-readme-stats.vercel.app/api?username=rajyavardhanbithale&theme=nord&show_icons=true&hide_border=false&count_private=true)
+<br/>
+![rajyavardhanbithale's Streak](https://github-readme-streak-stats.herokuapp.com/?user=rajyavardhanbithale&theme=nord&hide_border=false)
+
+![rajyavardhanbithale's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rajyavardhanbithale&theme=nord&show_icons=true&hide_border=false&layout=compact)
+
+</div>
+
 <p align='center'>
   I'm Python Developer - Full Stack Web Developer - Experience in Backend Development and API Development
 </p>
