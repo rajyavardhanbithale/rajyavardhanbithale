@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 <br/>
 ![rajyavardhanbithale's Streak](https://github-readme-streak-stats.herokuapp.com/?user=rajyavardhanbithale&theme=nord&hide_border=false)
 
-![rajyavardhanbithale's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rajyavardhanbithale&theme=nord&show_icons=true&hide_border=false&layout=compact)
+![rajyavardhanbithale's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rajyavardhanbithale&count_private=false&theme=nord&show_icons=true&hide_border=false&layout=compact)
 
 </div>
 
