@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 <div align='center'>
 
 ![rajyavardhanbithale's Stats](https://github-readme-stats.vercel.app/api?username=rajyavardhanbithale&theme=nord&show_icons=true&hide_border=false&count_private=true)
