@@ -66,7 +66,11 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white" alt="Render">
 
 <img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP">
+
 </div>
+<div align='center'>
+Drop Your Idea at - bithale02@gmail.com
+<div>
 
 <div align='center'>
 
