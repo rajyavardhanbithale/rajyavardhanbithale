@@ -2,16 +2,17 @@
 
 ###
 
+<br clear="both">
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rajyavardhanbithale&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nord&locale=en&hide_border=true&border_radius=15" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=rajyavardhanbithale&locale=en&mode=daily&theme=nord&hide_border=true&border_radius=15" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rajyavardhanbithale&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=nord&hide_border=true&border_radius=15" height="150" alt="languages graph"  />
 </div>
 
 ###
 
-<br clear="both">
-
-<img align="right" height="150" src="https://i.ibb.co/FzjMxH8/68d3b30e1c624cdca3a3207a1a510774.jpg"  />
+<img align="right" height="150" src="https://i.pinimg.com/originals/b0/7b/5b/b07b5bbfc32b4958810d59a79cd3aac9.gif"  />
 
 ###
 
@@ -78,14 +79,13 @@
 
 ###
 
-<p align="left">I'm Python Developer - Full Stack Web Developer - Experience in Backend Development and API Development</p>
+<p align="right">I'm Python Developer - Full Stack Web Developer - Experience in Backend Development and API Development</p>
 
 ###
 
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rajyavardhanbithale&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=nord&hide_border=true&order=2" height="150" alt="languages graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rajyavardhanbithale&radius=16&theme=nord&area=true&order=5&hide_border=true" height="300" alt="activity-graph graph"  />
 </div>
 
