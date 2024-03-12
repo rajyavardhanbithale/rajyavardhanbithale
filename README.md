@@ -79,7 +79,7 @@
 
 ###
 
-<p align="right">I'm Python Developer - Full Stack Web Developer - Experience in Backend Development and API Development</p>
+<p align="left">I'm Python Developer - Full Stack Web Developer - Experience in Backend Development and API Development</p>
 
 ###
 
