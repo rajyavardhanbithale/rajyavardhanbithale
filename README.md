@@ -11,10 +11,11 @@
 </div>
 
 ###
-
+&nbsp;&nbsp;&nbsp;
 <img align="right" height="150" src="https://i.pinimg.com/originals/b0/7b/5b/b07b5bbfc32b4958810d59a79cd3aac9.gif"  />
-
+&nbsp;&nbsp;&nbsp;&nbsp;
 ###
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
