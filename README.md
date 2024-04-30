@@ -80,7 +80,12 @@
 
 ###
 
-<p align="left">I'm Python Developer - Full Stack Web Developer - Experience in Backend Development and API Development</p>
+<p align="left">I'm Python Developer - Full Stack Web Developer - Experience in Backend Development and API Development
+</p>
+
+<p align="left">An idiot admires complexity, a genius admires simplicity. ~ Terry A. Davis</p>
+
+
 
 ###
 
