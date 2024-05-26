@@ -80,6 +80,9 @@
   <a href="https://www.instagram.com/rajyavardhan.8" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
+    <a href="https://wellfound.com/u/rajyavardhan-bithale-1" target="_blank">
+    <img src="https://img.shields.io/badge/AngelList-%23D4D4D4.svg?style=for-the-badge&logo=AngelList&logoColor=white" height="35" alt="instagram logo"  />
+  </a>
 </div>
 
 ###
@@ -89,7 +92,13 @@
 
 <p align="left">An idiot admires complexity, a genius admires simplicity. ~ Terry A. Davis</p>
 
+<p align="left">I also know English, Spanish and Hindi.</p>
+<div align="left">
 
+<img src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/us.svg" height="35" width="35" style="border-radius:50%"/>
+<img src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/in.svg" height="35" width="35" style="border-radius:50%"/>
+<img src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/es.svg" height="35" width="35" style="border-radius:50%"/>
+</div>
 
 ###
 
