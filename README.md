@@ -92,7 +92,7 @@
 
 <p align="left">An idiot admires complexity, a genius admires simplicity. ~ Terry A. Davis</p>
 
-<p align="left">I also know English, Spanish and Hindi.</p>
+<p align="left">I also know English, Hindi and Spanish </p>
 <div align="left">
 
 <img src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/us.svg" height="35" width="35" style="border-radius:50%"/>
