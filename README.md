@@ -87,7 +87,7 @@
 
 ###
 
-<p align="left">I'm Python Developer - Machine Learning - Deep Learning - Full Stack Web Developer - Experience in Backend Development and API Development
+<p align="left">I'm Python Developer - I Know Machine Learning - Deep Learning - Full Stack Web Developer - Experience in Backend Development and API Development
 </p>
 
 <p align="left">An idiot admires complexity, a genius admires simplicity. ~ Terry A. Davis</p>
