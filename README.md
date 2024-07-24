@@ -107,7 +107,6 @@
 ###
 
 <br clear="both">
-
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rajyavardhanbithale&radius=16&theme=nord&area=true&order=5&hide_border=true" height="300" alt="activity-graph graph"  />
 </div>
