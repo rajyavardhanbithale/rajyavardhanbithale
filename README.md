@@ -100,12 +100,13 @@
 
 ###
 
-<p align="left">I'm Python Developer - I Know Machine Learning - Deep Learning - Full Stack Web Developer - Experience in Backend Development and API Development
+<p align="left">I'm Python Developer - I Know Machine Learning - Deep Learning - Full Stack Web Developer - Experience in Backend Development and API Development - know spanish 
 </p>
 
-<p align="left">An idiot admires complexity, a genius admires simplicity. ~ Terry A. Davis</p>
-
-<p align="left">Language Known English, Hindi and Spanish </p>
+<p align="left">An idiot admires complexity, a genius admires simplicity. ~ Terry A. Davis
+<br />  
+Premature optimization is the root of all evil ~ Donald Knuth
+</p>
 <div align="left">
 <!--
 <img src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/us.svg" height="35" width="35" style="border-radius:50%"/>
