@@ -6,7 +6,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats-five-psi-21.vercel.app/api?username=rajyavardhanbithale&hide_title=false&hide_rank=false&show_icons=true&count_private=true&disable_animations=false&theme=nord&locale=en&hide_border=true&border_radius=15&include_all_commits=true" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=rajyavardhanbithale&locale=en&mode=daily&theme=nord&hide_border=true&border_radius=15&count_private=true" height="150" alt="streak graph"  />
+  <img src="https://nirzak-streak-stats.vercel.app?user=rajyavardhanbithale&locale=en&mode=daily&theme=nord&hide_border=true&border_radius=15&count_private=true" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rajyavardhanbithale&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=nord&hide_border=true&border_radius=15&count_private=true" height="150" alt="languages graph"  />
 </div>
 
@@ -107,11 +107,11 @@ Premature optimization is the root of all evil ~ Donald Knuth
 
 <br clear="both">
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rajyavardhanbithale&radius=16&theme=nord&area=true&order=5&hide_border=true" height="300" alt="activity-graph graph"  />
+<!--   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rajyavardhanbithale&radius=16&theme=nord&area=true&order=5&hide_border=true" height="300" alt="activity-graph graph"  /> -->
 </div>
 
 ###
 
-<img src="https://raw.githubusercontent.com/rajyavardhanbithale/rajyavardhanbithale/output/snake.svg" alt="Snake animation" />
+<!-- <img src="https://raw.githubusercontent.com/rajyavardhanbithale/rajyavardhanbithale/output/snake.svg" alt="Snake animation" /> -->
 
 ###
