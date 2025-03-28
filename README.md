@@ -95,23 +95,4 @@
 <br />  
 Premature optimization is the root of all evil ~ Donald Knuth
 </p>
-<div align="left">
-<!--
-<img src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/us.svg" height="35" width="35" style="border-radius:50%"/>
-<img src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/in.svg" height="35" width="35" style="border-radius:50%"/>
-<img src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/es.svg" height="35" width="35" style="border-radius:50%"/>
-</div>
--->
 
-###
-
-<br clear="both">
-<div align="center">
-<!--   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rajyavardhanbithale&radius=16&theme=nord&area=true&order=5&hide_border=true" height="300" alt="activity-graph graph"  /> -->
-</div>
-
-###
-
-<!-- <img src="https://raw.githubusercontent.com/rajyavardhanbithale/rajyavardhanbithale/output/snake.svg" alt="Snake animation" /> -->
-
-###
